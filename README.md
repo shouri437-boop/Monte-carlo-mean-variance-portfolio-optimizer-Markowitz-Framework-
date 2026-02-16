@@ -36,23 +36,16 @@ Period: 2019–2024
 
 Portfolio Return:
 
-\[
-R_p = w^T \mu
-\]
+Rₚ = wᵀμ  
 
 Portfolio Variance:
 
-\[
-\sigma^2 = w^T \Sigma w
-\]
+σ² = wᵀΣw  
 
 Sharpe Ratio:
 
-\[
-S = \frac{R_p}{\sigma_p}
-\]
+S = Rₚ / σₚ
 
----
 
 ## Results
 
